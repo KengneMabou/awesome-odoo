@@ -28,6 +28,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Books
 - Free Books
     - [Implementation Methodology](https://www.odoo.com/r/Implementation_methodology) - Official book for implementation
+    - [Odoo Development V17] (https://www.cybrosys.com/odoo/odoo-books/odoo-17-development/) - Development  Documentation for Odoo v17 by Cybrosys Technologies.
     - [Odoo Development V16](https://www.cybrosys.com/odoo/odoo-books/odoo-16-development/) - Development  Documentation for Odoo v16 by Cybrosys Technologies.
      - [Odoo Accounting V16](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v16/accounting/) - Functional Documentation for Accounting v16 by Cybrosys Technologies.
      - [Odoo Development V15](https://www.cybrosys.com/odoo/odoo-books/odoo-15-development/) - Development  Documentation for Odoo v15 by Cybrosys Technologies.
